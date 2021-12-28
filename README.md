@@ -2,7 +2,7 @@
 
 This is a react todo app done step-by-step.
 
-Check the demo hosted here https://simplest-react-todo-app.herokuapp.com/.
+Check the demo hosted here https://khush-react-todo.netlify.app/
 
 
 ## Instructions
