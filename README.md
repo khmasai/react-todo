@@ -8,7 +8,7 @@ Image showing Active List of items in todo list
 ![image](https://github.com/khmasai/react-todo/blob/main/Screenshots/Active.png)
 
 Image showing Completed List of tasks from todo list 
-![](https://github.dev/khmasai/react-todo/blob/e6716c683ab636415b43dce88ab9484aa3992b6c/Screenshots/Completed.png)
+![](https://github.com/khmasai/react-todo/blob/main/Screenshots/Completed.png)
 
 
 ## Instructions
