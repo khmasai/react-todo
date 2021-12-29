@@ -4,10 +4,10 @@ This is a react todo app done step-by-step.
 
 Check the demo hosted here https://khush-react-todo.netlify.app/
 
-###Image showing Active List of items in todo list
+Image showing Active List of items in todo list
 ![](khmasai/react-todo/Screenshots/Active.png)
 
-###Image showing Completed List of tasks from todo list 
+Image showing Completed List of tasks from todo list 
 ![](khmasai/react-todo/Screenshots/Completed.png)
 
 
